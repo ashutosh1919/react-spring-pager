@@ -1,0 +1,28 @@
+{
+  "name": "react-spring-pager",
+  "version": "1.0.0",
+  "description": "A ready-to-use one of the best available Animated ViewPagers built using react-spring.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutosh1919/react-spring-pager.git"
+  },
+  "keywords": [
+    "viewpager",
+    "react-spring viewpager",
+    "Awesome Viewpager",
+    "Springpager",
+    "react-spring-pager",
+    "Viewpager for react",
+    "Image Viewer for React"
+  ],
+  "author": "Ashutosh Hathidara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashutosh1919/react-spring-pager/issues"
+  },
+  "homepage": "https://github.com/ashutosh1919/react-spring-pager/src/#readme"
+}
